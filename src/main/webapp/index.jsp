@@ -3,16 +3,16 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title> hwan-yeong  </title>
+<title> Stay cute, Stay beautiful  </title>
 <style>
   body {
-    background-color: purple;
+    background-color: pink;
   }
 </style>
 </head>
 <body>
-<h1>yeoleobun moduleul hwan-yeonghabnida </h1>
-<p>yeogiga sumanaya </p>
+<h1>The Konkani Princess </h1>
+<p>Sumu Doll</p>
 </body>
 </html>
 
